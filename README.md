@@ -15,4 +15,7 @@ Telegram: @EvgeniyAvdonin
 ![image](https://user-images.githubusercontent.com/50587728/213402011-51cf7dd7-63a5-4c6d-be72-38131c713b7d.png)
 Ссылка: https://stepik.org/cert/1915588
 
+![image](https://user-images.githubusercontent.com/50587728/215598989-3afeabc9-729e-40db-a1d8-486db5782137.png)
+Ссылка: https://stepik.org/cert/1929037
+
 ![image](https://user-images.githubusercontent.com/50587728/213403369-76e7460e-51fc-42d2-beae-56f2b59d236c.png)
